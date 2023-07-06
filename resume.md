@@ -3,19 +3,19 @@ margin-left: 2cm
 margin-right: 2cm
 margin-top: 1cm
 margin-bottom: 2cm
-title: Rene Kooiker Resume
-description-meta: 'Resume for Rene Johannes Kooiker'
+title: René Johannes Kooiker
+description-meta: 'Resume for René Johannes Kooiker'
 keywords:
-  - 'php'
-  - 'mysql'
-  - 'linux'
+  - 'phd'
+  - 'research'
+  - 'teacher'
+  - 'content'
+  - 'digital humanities'
 author:
-- I am the author
-subject: 'Subject'
+- René Johannes Kooiker
+subject: 'resume'
 ---
 ###### [[rjkooiker.github.io](https://rjkooiker.github.io)] . [ rene.kooiker@yale.edu] . [ 203 508 0992 ]
-
-# René Johannes Kooiker
 
 ## Skills
 
@@ -63,13 +63,13 @@ subject: 'Subject'
 
 ## Projects
 
-#### [*Mapping Carifesta Archives*](https://rjkooiker.shinyapps.io/carifesta-archives/) (2023)
+### [*Mapping Carifesta Archives*](https://rjkooiker.shinyapps.io/carifesta-archives/) (2023)
 
 - Developed the concept for a (crowdsourced) map of archives relevant to my dissertation for use by other researchers in my field. 
 - Created the underlying database and coded the application in R using the Shiny Apps and Leaflet plugins.
 - Reflected on the implications of the project for my field in a [blog post](https://rjkooiker.github.io/2023/07/03/mapping-carifesta-archives.html) on my personal website.
 
-#### [*You Are Invited to Carifesta '72*](https://arcg.is/LKqTH) (2023)
+### [*You Are Invited to Carifesta '72*](https://arcg.is/LKqTH) (2023)
 
 - Developed a digital exhibit to communicate my dissertation research to a general audience.
 - Used ArcGIS Story Maps to create an interactive multimeida exhibit allowing users to explore my research findings.
