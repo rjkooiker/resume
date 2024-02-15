@@ -19,7 +19,7 @@ subject: 'resume'
 
 ## Education
 
-### PhD in Comparative Literature, Yale University (Expected 2025)
+### PhD in Comparative Literature, Yale University (Expected 2024)
 
 - Presented the results of my research at several professional conferences and peer-reviewed journals.
 - Applied for and won funding from Yale University, Amherst College, and the British Library for my research.
@@ -45,14 +45,14 @@ subject: 'resume'
 2021-2023, New Haven, CT
 
 - Served as teaching assistant for four undergraduate literature courses, ranging from an introductory writing-heavy courses for non-humanities majors to specialized senior-level seminars.
-- Moderated discussion sections about course material, provided extensive feedback on assignments and tailored further support to individual student needs.
+- Moderated discussion sections about course material, provided extensive feedback on assignments, and tailored further support to individual student needs.
 - Designed and implemented a variety of supplementary pedagogical materials, including lecture slides for use in section, translation and reading exercises, and paper writing workshops.
 
 ### Language Tutor, Yale Center for Language Study
 
 2020-2022, New Haven, CT
 
-- Prepared weekly lesson plans and materials for students learning Dutch, based on students' progress, textbooks, and goals. Created a variety of learning materials, such as flashcards, games, and discussion activities.
+- Prepared weekly lesson plans and materials for students learning Dutch based on students' progress, textbooks, and personal goals. Created a variety of learning materials, such as flashcards, games, and discussion activities.
 - Provided comprehensive feedback on grammar, pronunciation, and comprehension skills.
 - Reported on student progress to the manager of Yale's Language Study programs.
 
@@ -61,7 +61,7 @@ subject: 'resume'
 2019-2021, New Haven, CT
 
 - Led a biweekly working group of graduate students in Caribbean Studies, choosing themes and topics for the semester, soliciting paper contributions, and moderating discussion.
-- Acquired grant funding from four  academic departments and centers to invite emerging scholars in the field to speak.
+- Acquired grant funding from four academic departments and centers to invite emerging scholars in the field to speak.
 - Transitioned to virtual events amidst the COVID-19 pandemic, ensuring uninterrupted intellectual community.
 - Advertised our events to a wide audience from communities across the university, including drafting copy, managing mailing lists, and creating posters.
 
@@ -92,9 +92,9 @@ subject: 'resume'
 
 ### [*You Are Invited to Carifesta '72*](https://arcg.is/LKqTH) (2023)
 
-- Conceived and executed a digital exhibit to present dissertation research to a broad audience, using ArcGIS Story Maps for an immersive, interactive experience.
- - Edited historical archival materials and enhanced multimedia content using Adobe Photoshop and Audition.
-- Crafted compelling exhibit narratives, effectively translating my research into accessible content.
+- Designed a digital exhibit to present dissertation research to a broad audience, using ArcGIS Story Maps for an immersive, interactive experience.
+- Edited historical archival materials and enhanced multimedia content using Adobe Photoshop and Audition.
+- Drafted compelling exhibit narratives, effectively translating my research into accessible content.
 
 ### Women of Carifesta (Forthcoming)
 
@@ -104,9 +104,7 @@ subject: 'resume'
 
 ## Selected Publications
 
-- ["Met cultureel kapitaal kan je de huur niet betalen"](https://jacobin.nl/vakbonden-amerikaanse-universiteiten-yale/) ("Cultural Capital Doesn't Pay Rent") Jacobin (April 2023).
-- [“Edward Kamau Brathwaite at Carifesta '72: The Occasion for Caribbean Criticism.”](http://archipelagosjournal.org/issue06/kooiker-carifesta.html) archipelagos: a journal of Caribbean digital praxis 6 (Spring 2022).
-- [“Oorlog tegen slavernij in de achttiende-eeuwse Caraïben”](https://www.nederlandseboekengids.com/20210301-rene-kooiker/) (“War on Slavery in the 18th-century
-Caribbean”). De Nederlandse Boekengids (The Dutch Review of Books) (March
-2021).
+- [“Met cultureel kapitaal kan je de huur niet betalen”](https://jacobin.nl/vakbonden-amerikaanse-universiteiten-yale/) (“Cultural Capital Doesn't Pay Rent”). Jacobin (April 2023).
+- [Edward Kamau Brathwaite at Carifesta '72: The Occasion for Caribbean Criticism.](http://archipelagosjournal.org/issue06/kooiker-carifesta.html) archipelagos: a journal of Caribbean digital praxis 6 (Spring 2022).
+- [“Oorlog tegen slavernij in de achttiende-eeuwse Caraïben”](https://www.nederlandseboekengids.com/20210301-rene-kooiker/) (“War on Slavery in the 18th-century Caribbean”). De Nederlandse Boekengids (The Dutch Review of Books) (March 2021).
 - [Internal Consistency of a Synthetic Population Construction Method for Chronic Disease Micro-Simulation Models](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0205225). PLOS ONE 13(11) (2018).
