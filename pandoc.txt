@@ -1,9 +1,9 @@
-# terminal commands
+## terminal commands
 
-# to directory
+## to directory
 cd Desktop/Personal/resume
 
-# commands
+## commands
 
 ## to html
 pandoc resume.md -f markdown -t html -c resume-stylesheet.css -s -o resume.html
